@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMSDatabase</string>
+    <string name="receive_message_and_update_database">receive message and update database</string>
+</resources>
