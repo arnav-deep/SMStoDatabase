@@ -51,7 +51,7 @@ public class MyReceiver extends BroadcastReceiver {
 
                 //For Camera ID:1
                 if (msg.equals("C1 Leopard Detected")) {
-                    if (phoneNo.equals("+919424574135")) {
+                    if (phoneNo.equals("+91XXXXXXXXXX")) {
                         Toast.makeText(context, "Message: " + msg + "\n Number: " + phoneNo, Toast.LENGTH_LONG).show();
 
                         mDatabase.child("a1/leopard/level").setValue("1");
