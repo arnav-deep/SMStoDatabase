@@ -51,7 +51,7 @@ public class MyReceiver extends BroadcastReceiver {
 
                 //For Camera ID:1
                 if (msg.equals("C1 Leopard Detected")) {
-                    if (phoneNo.equals("+91XXXXXXXXXX")) {
+                    if (phoneNo.equals("+919457015587")) {
                         Toast.makeText(context, "Message: " + msg + "\n Number: " + phoneNo, Toast.LENGTH_LONG).show();
 
                         mDatabase.child("a1/leopard/level").setValue("1");
@@ -59,13 +59,13 @@ public class MyReceiver extends BroadcastReceiver {
                 }
 
                 //For Camera ID: 2
-                /*if (msg.equals("C2 Leopard Detected")) {
-                    if (phoneNo.equals("+91XXXXXXXXXX")) {        //Add new phone number
+                if (msg.equals("C2 Leopard Detected")) {
+                    if (phoneNo.equals("+917340239617")) {        //Add new phone number
                         Toast.makeText(context, "Message: " + msg + "\n Number: " + phoneNo, Toast.LENGTH_LONG).show();
 
                         mDatabase.child("a2/leopard/level").setValue("1");
                     }
-                }*/
+                }
             }
         }
     }
