@@ -1,8 +1,8 @@
-# SMSDatabase
-SMSDatabase is an android application that can update any firebase database using a SMS as a trigger.
+# SMStoDatabase
+SMStoDatabase is an android application that can update any firebase database using a SMS as a trigger.
 
-## Why SMSDatabase?
-SMSDatabase can update any specified Firebase database using any specific SMS from a specific phone number as a trigger.
+## Why SMStoDatabase?
+SMStoDatabase can update any specified Firebase database using any specific SMS from a specific phone number as a trigger.
 
 ## The Motovation
 For project [StaySafe](https://github.com/arnav-deeo/StaySafe), my team needed to update a database in Firebase from an IoT device in a remote loation. There was no access to internet, but GSM was accessible. So, a GSM Module was attached with the IoT device that was able to send SMS.
