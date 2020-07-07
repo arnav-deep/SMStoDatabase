@@ -10,7 +10,7 @@ For project [StaySafe](https://github.com/arnav-deeo/StaySafe), my team needed t
 Using SMS, it was tricky to update the Firebase database. Hence, this app was build where a number and a code can be encoded such that whenever some specific text(s) are received in the mobile from some specific number(s), the firebase database will be updated in some specific way, automatically.
 
 ## Developers
-The app was developed initially in November 2019, as part of the project 'Safty and Security in IIITDM Jabalpur' by [Arnav Deep](https://github.com/arnav-deep), [Shivam Dubey](https://github.com/shushvam) and [Kaushal Sharma](https://github.com/shkaushal).
+The app was developed initially in November 2019, as part of the project 'Safety and Security in IIITDM Jabalpur' by [Arnav Deep](https://github.com/arnav-deep), [Shivam Dubey](https://github.com/shushvam) and [Kaushal Sharma](https://github.com/shkaushal).
 
 ## License
 MIT License.
