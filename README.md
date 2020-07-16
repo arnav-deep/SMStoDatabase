@@ -13,6 +13,6 @@ Using SMS, it was tricky to update the Firebase database. Hence, this app was bu
 The app was developed initially in November 2019, as part of the project 'Safety and Security in IIITDM Jabalpur' by [Arnav Deep](https://github.com/arnav-deep), [Shivam Dubey](https://github.com/shushvam) and [Kaushal Sharma](https://github.com/shkaushal).
 
 ## License
-MIT License.
+GNU GENERAL PUBLIC LICENSE
 
-© November 2019. All rights reserved.
+Arnav Deep © November 2019. All rights reserved.
